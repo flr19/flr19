@@ -5,6 +5,7 @@
 
 
 - 🧑🏻‍💻 Experience
+
 Software Engineer @ C&S Wholesale Grocers (current)
 
 Data Science Teaching Assistant @ Rutgers CS (2022-2023)
