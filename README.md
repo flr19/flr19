@@ -15,19 +15,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Farah and I graduated from Rutgers University in May 2023 with BS in Computer Science.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Farah's Profile</title>
+</head>
+<body>
+    <header>
+        <h1>Farah</h1>
+        <p>Graduated from Rutgers University in May 2023 with a BS in Computer Science.</p>
+        <p>Currently working as a software engineer based in Edison, NJ.</p>
+    </header>
+    
+    <section>
+        <h2>🧑🏻‍💻 Experience</h2>
+        <ul>
+            <li><strong>Software Engineer @ C&amp;S Wholesale Grocers</strong> (current)</li>
+            <li><strong>Data Science Teaching Assistant @ Rutgers CS</strong> (2022-2023)</li>
+            <li><strong>Enterprise Engineering Intern @ American Family Insurance</strong> (Summer 2022)</li>
+            <li><strong>Software Engineering Fellow @ Uber</strong> (2021)</li>
+        </ul>
+    </section>
+</body>
+</html>
 
-Currently working as a software engineer and based in Edison, NJ.
-
-🧑🏻‍💻 Experience
-Software Engineer @ C&S Wholesale Grocers (current)
-Data Science Teaching Assistant @ Rutgers CS (2022-2023)
-Enterprise Engineering Intern @ American Family Insurance (Summer 2022)
-Software Engineering Fellow @ Uber (2021)
-
-📚 Currently learning about
-DevOps practices and tools
-Cloud technologies including AWS, Azure, and Google Cloud Platform
 
 
 
