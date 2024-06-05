@@ -3,13 +3,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flr19&label=Profile%20views&color=0e75b6&style=flat" alt="flr19" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flr19" alt="flr19" /></a> </p>
+
+- 🧑🏻‍💻 Experience
+Software Engineer @ C&S Wholesale Grocers (current)
+
+Data Science Teaching Assistant @ Rutgers CS (2022-2023)
+
+Enterprise Engineering Intern @ American Family Insurance (Summer 2022)
+
+Software Engineering Fellow @ Uber (2021)
+
 
 - 🌱 I’m currently learning **DevOps tools, Cloud Technologies**
 
 - 💬 Ask me about **Java, Spring Boot, Python, Django, Airflow**
 
-- ⚡ Fun fact **I can read 5 languages (not code)**
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,4 +31,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flr19&show_icons=true&locale=en&layout=compact" alt="flr19" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flr19&show_icons=true&locale=en" alt="flr19" /></p>
